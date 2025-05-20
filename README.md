@@ -1,1 +1,1 @@
-# wether-forcate
+# weather-forcast
